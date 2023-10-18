@@ -1,2 +1,2 @@
 print("This is first test")
-print("Success")
+print("This is Success")
